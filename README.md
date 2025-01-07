@@ -1,7 +1,7 @@
 # Time Reporting System Web Application
 
 A simple web application that allows users to add timestamped entries regarding how much time they spent on their assigned projects.
-Made in ASP.NET, React TS and PostgreSQL for a course at Warsaw University of Technology.
+Made in two versions: ASP.NET MVC + Blazor + PostgreSQL (lab 2, 3) and ASP.NET + React TS + PostgreSQL (lab4).
 
 ## Features:
 
